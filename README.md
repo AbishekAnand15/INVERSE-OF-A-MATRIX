@@ -14,6 +14,17 @@ Using the np.linalg.inv(), we can find the inverse of the given matrix.
 ## Step 4:
 end of the program
 ## Program:
+
+
+
+
+
+
+
+
+
+
+
 ```python
 #Developed by:Abishek Xavier A
 #Register Number:22008833
