@@ -34,6 +34,6 @@ print(result)
 ```
 
 ## Output:
-![output](outputinverse.png)
+![output](Screenshot_20230128_101806.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
